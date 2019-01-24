@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+dataset
+results
+.vscode
+webapp/rottenfruitdetector/model
+.DS_Store
+webapp/static
